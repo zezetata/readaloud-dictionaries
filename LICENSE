@@ -1,0 +1,14 @@
+The meaning packs in the releases of this repository are licensed under the Creative Commons
+Attribution-ShareAlike 4.0 International licence (CC BY-SA 4.0):
+
+    https://creativecommons.org/licenses/by-sa/4.0/
+    Legal code: https://creativecommons.org/licenses/by-sa/4.0/legalcode
+
+They are adapted from the translation tables of English Wiktionary (https://en.wiktionary.org), whose
+text is © its contributors and licensed under CC BY-SA 4.0 and the GFDL, as extracted by Wiktextract
+(https://kaikki.org). Changes: translations were selected (up to four per part of speech for the most
+common English words, leaving out archaic, rare, crude and sexual senses), cleaned (notes in brackets
+and Arabic script's optional vowel marks removed) and stored as SQLite.
+
+You may share and adapt them for any purpose, including commercially, if you give appropriate credit,
+link to the licence, say what was changed, and share your adaptations under the same licence.
